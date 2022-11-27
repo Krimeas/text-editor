@@ -22,8 +22,8 @@ A simple text editor that runs in the browser featuring data persistence so that
 -------------------------------------
 
 ## Usage Instructions
-//Link to Video:
-   2. Insomnia testing: https://watch.screencastify.com/v/0PiThngdlOUNcCP2ggl2
+Link to Video:
+   1. 
 
 
 ------------------------------------------------------------
@@ -31,9 +31,9 @@ A simple text editor that runs in the browser featuring data persistence so that
 ### Assigned Tasks:
   1. Create repo and load in base code.
   2. set up PWA.
-  3. g
-  4. g
-  5. g
+  3. Edit Client side files to complete application.
+  4. Deploy to Heroku
+  5. Run tests and apply corrections until everything works.
 
 ### Technologies Used
   1. Node.js
